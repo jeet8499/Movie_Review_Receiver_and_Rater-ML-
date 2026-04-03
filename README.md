@@ -1,1 +1,2 @@
 # Movie_Review_Receiver_and_Rater-ML-
+This project implements a sentiment analysis tool for movie reviews. It utilizes the nltk library, specifically the VADER (Valence Aware Dictionary and sEntiment Reasoner) sentiment analysis model, to determine the emotional tone of a given review. The process involves text cleaning (lowercase conversion, removing numbers, punctuation, and stopwords) and then applying VADER to calculate sentiment scores, which are then mapped to a star rating.
